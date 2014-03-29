@@ -1,0 +1,9 @@
+[submodule "deps/czmq"]
+	path = deps/czmq
+	url = https://github.com/zeromq/czmq.git
+[submodule "deps/libzmq"]
+	path = deps/libzmq
+	url = https://github.com/zeromq/libzmq.git
+[submodule "deps/libsodium"]
+	path = deps/libsodium
+	url = https://github.com/jedisct1/libsodium.git
